@@ -31,4 +31,5 @@ end
 
 ## Install
 
-TODO
+    gem install flock_mutex
+
