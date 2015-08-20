@@ -1,3 +1,3 @@
 # WTFPL
 
-https://fr.wikipedia.org/wiki/WTFPL
+https://en.wikipedia.org/wiki/WTFPL
